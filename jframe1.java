@@ -1,0 +1,4 @@
+class jframe1
+{
+	
+}
