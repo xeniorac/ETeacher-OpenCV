@@ -67,7 +67,7 @@ public EmailGui(int i) {
 			String to=cc.getText();//username
 			String from="vishanthbharadwaj@gmail.com";//username
 			final String userName="vishanthbharadwaj@gmail.com";//username
-			final String password="Vi025324148592295";//password
+			final String password
 			final String host="smtp.gmail.com";
 			
 			Properties prop=new Properties();
